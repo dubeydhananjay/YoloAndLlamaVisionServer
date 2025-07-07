@@ -1,1 +1,10 @@
 *.pt
+.env*
+Image/
+Videos/
+__pycache__/
+classnames.txt
+client.py
+past_files/
+*.jpg
+venv/
